@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Monologue
+Comment=Dedicated Developer Screencast Recorder
+Exec=monologue
+Icon=camera-video
+Terminal=false
+Type=Application
+Categories=AudioVideo;Recorder;Utility;
+Keywords=screencast;recording;monologue;obs;video;
